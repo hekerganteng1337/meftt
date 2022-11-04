@@ -391,13 +391,13 @@ table.caturslot{font-family:inherit;width:100%;text-align:left;border-collapse:c
 <a href="https://fveter.unr.edu.ar/assets/css/">Situs Togel Terpercaya</a>
 </div>
 <div class="fixed-bar">
-<a class="active" href="https://rebrand.ly/rusiakaskustoto">
+<a class="active" href="https://rebrand.ly/kaskustoto3">
 <amp-img layout="intrinsic" height="150" width="150" src="https://1.bp.blogspot.com/-d61eiKhyfik/YXpG3DWkRpI/AAAAAAAAApA/a3x-WRGGuGEV0_eaES1IjafB2S385RxdgCLcBGAsYHQ/s16000/beranda.png" alt="beranda"></amp-img>LOGIN</a>
-<a class="active" href="https://rebrand.ly/rusiakaskustoto">
+<a class="active" href="https://rebrand.ly/kaskustoto3">
 <amp-img layout="intrinsic" height="150" width="150" src="https://1.bp.blogspot.com/-WAE-02gt8PM/YXO9XzwpNRI/AAAAAAAAAoA/aiga-iJxclUiFiSX1EtOag0asgjj77VFQCLcBGAsYHQ/s0/icons8-whatsapp-64.png" alt="whatsapp"></amp-img>WhatsApp</a>
-<a class="active" href="https://rebrand.ly/rusiakaskustoto">
+<a class="active" href="https://rebrand.ly/kaskustoto3">
 <amp-img layout="intrinsic" height="150" width="150" src="https://1.bp.blogspot.com/-Sr1b_Zh6otg/YXpG3DMKcXI/AAAAAAAAAo8/edppvIShajIlVrkJZeBSeeZudhsS2EepgCLcBGAsYHQ/s16000/download.png" alt="download"></amp-img>DAFTAR</a>
-<a class="active" href="https://rebrand.ly/rusiakaskustoto">
+<a class="active" href="https://rebrand.ly/kaskustoto3">
 <amp-img layout="intrinsic" height="150" width="150" src="https://1.bp.blogspot.com/-uXZoU8J2ObA/YXpG3DiNfeI/AAAAAAAAApE/Q8o0Ndg18JIMPjq2t1lo6jFXfzvk5A0rQCLcBGAsYHQ/s16000/promosi.png" alt="promosi"></amp-img>Promosi</a>
 </div>
 
